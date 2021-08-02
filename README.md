@@ -1,0 +1,2 @@
+# Almost-prime
+n number theory, a natural number is called k-almost prime if it has k prime factors. More formally, a number n is k-almost prime if and only if Ω(n) = k, where Ω(n) is the total number of primes in the prime factorization of n. Επομένως, ένας φυσικός αριθμός είναι πρώτος αν και μόνο αν είναι 1-σχεδόν πρώτος, και ημι - έγκλημα εάν και μόνο εάν είναι 2-σχεδόν πρώτος. Το σύνολο των k -σχεδόν πρώτων συμβόλων συνήθως υποδηλώνεται με P k . Ο μικρότερος k -σχεδόν πρώτος είναι 2 k .
